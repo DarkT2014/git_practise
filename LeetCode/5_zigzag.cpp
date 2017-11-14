@@ -40,18 +40,7 @@ string convert(string s, int numRows) {
                                 tmp += s[m*perlen + perlen - i];
                             }
                         }
-                    }
-                    
-                    
-                    
-                    // int left = m * perlen + i;
-                    // int right = (m + 1) * perlen - i;
-                    // if (left < len) {
-                    //     tmp += s[left];
-                    //     if (right < len && right != m * perlen + perlen / 2) {
-                    //         tmp += s[right];
-                    //     }
-                    // }
+                    }               
                 }
                 sum += tmp;
             }
