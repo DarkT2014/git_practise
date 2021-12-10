@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T09:03:42.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="MQX6vcyHW2L9FRofBLoK" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T09:06:23.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="OOklofOFtdaqgtCbgw-y" version="15.9.4" type="github">
   <diagram id="VEihRN0Kl4J5QdrPjCK7" name="Page-1">
-    <mxGraphModel dx="895" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tw_pnomX8UwEmwfn65Li-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="tw_pnomX8UwEmwfn65Li-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tw_pnomX8UwEmwfn65Li-1" target="tw_pnomX8UwEmwfn65Li-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tw_pnomX8UwEmwfn65Li-1" value="英文原文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tw_pnomX8UwEmwfn65Li-2" value="英文原文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
